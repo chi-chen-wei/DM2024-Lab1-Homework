@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
